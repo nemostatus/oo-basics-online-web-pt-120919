@@ -30,6 +30,7 @@ class Shoe
     @condition
   end 
   def cobble
+<<<<<<< HEAD
     puts "Your shoe is as good as new!"
    @condition = "new"
    
@@ -38,6 +39,11 @@ end
 nike = Shoe.new("Nike")
 
 
+=======
+    puts "the shoe has been repaired"
+  end 
+end
+>>>>>>> 333277685b2a5b73762a242fc8f8e9309ea51a31
     
     
     
